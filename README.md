@@ -29,4 +29,7 @@ Define the value for every section. index will have so many sections as value's 
 
 	(int)graph:(id)graph valueForColumn:(NSIndexPath *)index
 	
-##License
+##Example
+
+![alt tag](http://imageshack.us/a/img703/3590/36og.png)
+
